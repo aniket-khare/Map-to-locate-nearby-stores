@@ -1,0 +1,80 @@
+ body 
+  { margin: 0; 
+    padding: 0; 
+  }
+  #map 
+  {     
+      height: 100vh;
+      width: 80%; 
+  }
+  /*------------- Header----------- */
+  .main-heading{
+      padding-top: .5em;
+      height: 2em;
+      text-align: center;
+      font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+      background-color: #192232;
+      color: white;
+  }
+  /*------------ Section ---------*/
+  .container101{
+      display: flex;
+     
+      
+  }
+  .sidebar1{
+    background-color: bisque;
+    padding-left: 1%;
+    padding-right: 1%;
+  }
+  /*------ Radius -----------*/
+  .inside-container101-1{
+    
+    font-size: 20px;
+  }
+  #radius{
+    margin-top: 1.6em;
+    width: 7em;
+    font-size: 1em;
+  }
+  /*--------- Catagory -----------*/
+  .inside-container101-2{
+    
+    font-size: 20px;
+    
+  }
+  #category{
+    margin-top: 1.6em;
+    width: 7em;
+    font-size: 1em;
+  }
+  /*--------- Adding Marker -----------*/
+.storeMarker {
+    background-image: url('pointer-map.png');
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+/*--------- Adding Popup -----------*/
+.mapboxgl-popup {
+    max-width: 200px;
+}
+.mapboxgl-popup-content {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+/*--------- For Mobile use -----------*/
+@media  screen and (max-width: 400px){
+    .container101{
+        display: inline-block;
+        width: 100%;
+    }
+    #map{
+        width: 100%;
+    }
+    .sidebar1{
+        height: 20%;
+    }
+}

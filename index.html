@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css" type="text/css">
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+    <title>Deals around Me</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <!------------ Header Starts ----------->
+	<header>
+		<div>
+			<h1 class="main-heading">Deals Near You</h1>
+		</div>
+	</header>
+	<!------------ Header Ends ------------>
+	<!---------- Section Starts ----------->
+    <section>
+		<div class="container101">
+			
+			<div class="sidebar1"> 
+				<div class="inside-container101-1">Radius
+                    <input type="number" id="radius" min=1 placeholder="Radius in KM" oninput="getStores()"> 
+                </div>
+				<div class="inside-container101-2">Category
+					<select name="category" id="category" oninput="getStores()">
+						
+						<option value="Groceries">Groceries</option>
+						<option value="Cloth Stores">Cloth Store</option>
+						<option value="Gym">Gym</option>
+						<option value="Restaurants">Restaurants</option>
+					  </select>
+				</div>
+			</div>
+
+			<div id="map"></div>
+		</div>
+	</section>	
+    <!-------------Section ends ----------->
+    <script src="markerplotter.js"></script>
+    <script src="mainjavascript.js"></script>
+    
+</body>
+</html> 

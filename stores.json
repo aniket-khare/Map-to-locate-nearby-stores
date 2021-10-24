@@ -1,0 +1,293 @@
+{
+    "storesFeatures" : [
+      {
+         
+          "name": "Oven Classics",
+          "category": "Restaurants",
+          "description": "Rs100 off on bakery products",
+          "coordinates": {
+              "lng": 79.97355854354616,
+              "lat": 23.11737256336094}
+          
+      },
+      {
+        
+        "name": "Box Street Hotel",
+        "category": "Restaurants",
+          "description": "10% off on Saturdays",
+          "coordinates": {
+              "lng": 79.98128330528556,
+              "lat": 23.11220197903533
+          }
+      },
+      
+      {
+       
+        "name": "Pasricha Lawns",
+        "category": "Restaurants",
+          "description": "5% off on bill above Rs5000",
+          "coordinates": {
+              "lng": 79.97448966570153,
+              "lat": 23.108746780025506
+          }
+      },
+      
+      {
+        
+        "name": "Arq The Courtyard",
+        "category": "Restaurants",
+          "description": "15% off on Wednesdays",
+          "coordinates": {
+              "lng": 79.97201261128222,
+              "lat": 23.120632598327006
+          }
+      },
+      {
+        
+        
+        "name": "Oxy Gym",
+        "category": "Gym",
+          "description": "12% off on yearly membership",
+          "coordinates": {
+              "lng": 79.97602522929175,
+              "lat": 23.112559493191828
+          }
+      },
+      {
+    
+        "name": "Sports Club Gym",
+        "category": "Gym",
+          "description": "10% off on yearly membership",
+          "coordinates": {
+              "lng": 79.97495108230883,
+              "lat": 23.116053957301112
+          }
+      },
+      
+      {
+  
+        "name": "Amazed Grocery Store",
+        "category": "Groceries",
+          "description": "8% off on bill above Rs2000",
+          "coordinates": {
+              "lng": 79.97516031166451,
+              "lat": 23.113973282827246
+          }
+      },
+      {
+        
+        "name": "Daily Needs Grocery Store",
+        "category": "Groceries",
+          "description": "20% off on bill above Rs1500",
+          "coordinates": {
+              "lng": 79.97246245664789,
+              "lat": 23.114483665943816
+          }
+      },
+      {
+   
+        "name": "Asos",
+        "category": "Cloth Stores",
+          "description": "20% off on bill above 2999",
+          "coordinates": {
+              "lng": 79.97782057363202,
+              "lat": 23.111044460071042
+          }
+      },
+      {
+        
+        "name": "Reliance Trends",
+        "category": "Cloth Stores",
+          "description": "10% off on Suits",
+          "coordinates": {
+              "lng": 79.975600988085,
+              "lat": 23.117680300440394
+          }
+      },
+      {
+      
+        "name": "Westside",
+        "category": "Cloth Stores",
+          "description": "25% off on Shirts",
+          "coordinates": {
+              "lng": 79.98578156020123,
+              "lat": 23.116267808587285
+          }
+      },
+      {
+        
+        "name": "Jabalpur Gym",
+        "category": "Gym",
+          "description": "5% off on yearly membership",
+          "coordinates": {
+              "lng": 79.95781564320014,
+              "lat": 23.113475622552233
+          }
+      },
+      {
+        
+        "name": "Kfc",
+        "category": "Restaurants",
+          "description": "5% off on Wednesdays",
+          "coordinates": {
+              "lng": 79.92786525407652,
+              "lat": 23.124707312741613
+          }
+      },
+      
+
+      {
+         
+        "name": "Oven Classics",
+        "category": "Restaurants",
+        "description": "Rs100 off on bakery products",
+        "coordinates": {
+            "lng": 77.41860626528968,
+            "lat": 23.232399629159886}
+        
+    },
+    {
+      
+
+      "name": "Box Street Hotel",
+      "category": "Restaurants",
+        "description": "10% off on Saturdays",
+        "coordinates": {
+            "lng": 77.41997448993742,
+            "lat": 23.201649486550593
+        }
+    },
+    
+    { 
+     
+      "name": "Pasricha Lawns",
+      "category": "Restaurants",
+        "description": "5% off on bill above Rs5000",
+        "coordinates": {
+            "lng": 77.46627621046403,
+            "lat": 23.196920845204144
+        }
+    },
+    
+    { 
+      
+      "name": "Arq The Courtyard",
+      "category": "Restaurants",
+        "description": "15% off on Wednesdays",
+        "coordinates": {
+            "lng": 77.47189941683291,
+            "lat": 23.21671404224446
+        }
+    },
+    { 
+      
+      "name": "Oxy Gym",
+      "category": "Gym",
+        "description": "12% off on yearly membership",
+        "coordinates": {
+            "lng": 77.48218868806103,
+            "lat": 23.239692463796253
+        }
+    },
+    { 
+      "name": "Sports Club Gym",
+      "category": "Gym",
+        "description": "10% off on yearly membership",
+        "coordinates": {
+            "lng": 77.38826917743211,
+            "lat": 23.246728127073116
+        }
+    },
+    
+    { 
+
+      "name": "Amazed Grocery Store",
+      "category": "Groceries",
+        "description": "8% off on bill above Rs2000",
+        "coordinates": {
+            "lng": 77.40744903762297,
+            "lat": 23.217174348068266
+        }
+    },
+    { 
+      
+      "name": "Grocery Bag",
+      "category": "Groceries",
+        "description": "30% off on bill above Rs1500",
+        "coordinates": {
+            "lng": 77.39746691966957,
+            "lat": 23.219518083929298
+        }
+    },
+    { 
+      
+      "name": "Daily Needs Grocery Store",
+      "category": "Groceries",
+        "description": "20% off on bill above Rs1500",
+        "coordinates": {
+            "lng": 77.3959524533792,
+            "lat": 23.216941964584244
+        }
+    },
+    {
+ 
+      "name": "Asos",
+      "category": "Cloth Stores",
+        "description": "20% off on bill above 2999",
+        "coordinates": {
+            "lng": 77.42770333745861,
+            "lat": 23.29387257623414
+        }
+    },
+    { 
+      
+      "name": "Reliance Trends",
+      "category": "Cloth Stores",
+        "description": "10% off on Suits",
+        "coordinates": {
+            "lng": 77.39994483198979,
+            "lat": 23.22535760253207
+        }
+    },
+    { 
+    
+      "name": "Westside",
+      "category": "Cloth Stores",
+        "description": "25% off on Shirts",
+        "coordinates": {
+            "lng": 77.38525140007553,
+            "lat": 23.20922956052709
+        }
+    },
+    { 
+      
+      "name": "Jabalpur Gym",
+      "category": "Gym",
+        "description": "5% off on yearly membership",
+        "coordinates": {
+            "lng": 77.52725226742719,
+            "lat": 23.258662572829582
+        }
+    },
+    { 
+      
+      "name": "Kfc",
+      "category": "Restaurants",
+        "description": "5% off on Wednesdays",
+        "coordinates": {
+            "lng": 77.45093745562838,
+            "lat": 23.193162904360005
+        }
+    }
+
+
+      
+
+
+
+      
+      
+    ]
+  }
+
+ 
